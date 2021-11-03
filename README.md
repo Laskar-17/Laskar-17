@@ -1,6 +1,4 @@
-Hallo
 Support Laskar-17
-Semoga harimu menyenangkan
 
 <!--
 **Laskar-17/Laskar-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
